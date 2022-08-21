@@ -2,10 +2,10 @@
 
 # IndoWordnet - English Wordnet Mapping
 
-[![GitHub issues](https://img.shields.io/github/issues/shivamm7/Indo-Wordnet-English-Hindi-Mapping?style=flat-square)](https://github.com/shivamm7/Indo-Wordnet-English-Hindi-Mapping/issues)
-[![GitHub forks](https://img.shields.io/github/forks/shivamm7/Indo-Wordnet-English-Hindi-Mapping?style=flat-square)](https://github.com/shivamm7/Indo-Wordnet-English-Hindi-Mapping/network)
-[![GitHub stars](https://img.shields.io/github/stars/shivamm7/Indo-Wordnet-English-Hindi-Mapping)](https://github.com/shivamm7/Indo-Wordnet-English-Hindi-Mapping/stargazers)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc/4.0/) 
+[![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/IWN-En?style=flat-square)](https://github.com/cfiltnlp/IWN-En/issues)
+[![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/IWN-En?style=flat-square)](https://github.com/cfiltnlp/IWN-En/network)
+[![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/IWN-En?style=flat-square)](https://github.com/cfiltnlp/IWN-En/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-orange)](https://github.com/cfiltnlp/IWN-En/blob/main/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cfiltnlp?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/cfiltnlp)
 
 
@@ -13,6 +13,8 @@
 
 This repository contains the linked IndoWordnet data with English Wordnet published at the Langauge Resources and Evaluation conference (LREC) in 2018. 
 The paper is available [here](https://arxiv.org/abs/2201.02977) and [here](https://aclanthology.org/L18-1728/).
+
+IndoWordnet can be [accessed online via this URL](https://www.cfilt.iitb.ac.in/indowordnet/)
 
 We acknowledge the lexicographers from CFILT lab who created this data by manually linking English and Hindi Wordnet synsets alogn with the engineers/researchers who enabled the data curation. 
 
