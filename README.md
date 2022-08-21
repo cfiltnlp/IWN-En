@@ -20,28 +20,16 @@ We acknowledge the lexicographers from CFILT lab who created this data by manual
 
 ## Usage
 
-You should have the 'datasets' packages installed to be able to use the :rocket: HuggingFace datasets repository. Please use the following command and install via pip:
-
-```code
-    pip install datasets
-```
-
-To use the original dataset with all the tags, please use:<br/>
-
-```python
-    from datasets import load_dataset
-    hiner = load_dataset('cfilt/IWN-EN')
-```
-However, the raw format dataset files can also be found on this Git repository under the [data](data/english-hindi-linked.tsv) folder.
+The raw format dataset files can also be found on this Git repository under the [data](data/english-hindi-linked.tsv) folder.
 
 ## Maintainer(s)
 
-[Shivam Mhaskar](https://twitter.com/shivamm7)
+[Shivam Mhaskar](https://twitter.com/shivamm7)<br/>
 [Diptesh Kanojia](https://dipteshkanojia.github.io)<br/>
 
 ## Citation
 
-Diptesh Kanojia, Kevin Patel, and Pushpak Bhattacharyya. 2018. Indian Language Wordnets and their Linkages with Princeton WordNet. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan. European Language Resources Association (ELRA).
+Diptesh Kanojia, Kevin Patel, and Pushpak Bhattacharyya. 2018. Indian Language Wordnets and their Linkages with Princeton WordNet. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan. European Language Resources Association (ELRA).<br/>
 
 ### BiBTeX Citation
 ```latex
