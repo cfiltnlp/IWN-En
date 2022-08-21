@@ -11,7 +11,8 @@
 
 ## About
 
-This repository contains the linked IndoWordnet data with English Wordnet published at the Langauge Resources and Evaluation conference (LREC) in 2018. A pre-print via arXiv is available [here](https://arxiv.org/abs/2201.02977).
+This repository contains the linked IndoWordnet data with English Wordnet published at the Langauge Resources and Evaluation conference (LREC) in 2018. 
+The paper is available [here](https://arxiv.org/abs/2201.02977) and [here](https://aclanthology.org/L18-1728/).
 
 We acknowledge the lexicographers from CFILT lab who created this data by manually linking English and Hindi Wordnet synsets alogn with the engineers/researchers who enabled the data curation. 
 
