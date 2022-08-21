@@ -28,8 +28,8 @@ The raw format dataset files can also be found on this Git repository under the 
 
 ## Maintainer(s)
 
-[Shivam Mhaskar](https://twitter.com/shivamm7)<br/>
 [Diptesh Kanojia](https://dipteshkanojia.github.io)<br/>
+[Shivam Mhaskar](https://twitter.com/shivamm7)<br/>
 
 ## Citation
 
