@@ -19,7 +19,8 @@ IndoWordnet can be [accessed online via this URL](https://www.cfilt.iitb.ac.in/i
 We acknowledge the lexicographers from CFILT lab who created this data by manually linking English and Hindi Wordnet synsets alogn with the engineers/researchers who enabled the data curation. 
 
 ### Recent Updates
-* Version 0.5: IWN-EN release with Hindi, Bengali, Gujarati, Kannada, Malayalam, Punjabi, Tamil, Telugu and Urdu Wordnet synsets
+* Version 1.0: IWN-EN release with Assamese, Bodo, Kashmiri, Konkani, Manipuri, Marathi, Nepali, Oriya, and Sanskrit synsets. All IWN synset linkages are now present here (to English Wordnet).
+* Version 0.5: IWN-EN release with Hindi, Bengali, Gujarati, Kannada, Malayalam, Punjabi, Tamil, Telugu and Urdu Wordnet synsets.
 * Version 0.0.1: IWN-EN initial release with Hindi Wordnet and English Wordnet mapping.
 
 ## Usage
